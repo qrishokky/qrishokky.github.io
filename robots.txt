@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qrishokky.github.io/sitemap.xml
